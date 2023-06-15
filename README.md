@@ -1,4 +1,4 @@
-# Embed static files into binary and serve as webserver.
+# All in one binary web server with embedded static files.
 
 Add your app files to "static" directory and it will be embedded to to binary and served with a web server.
 
