@@ -17,6 +17,6 @@ Add your app files to "static" directory and it will be embedded to to binary an
 sh scripts/crosscompile.sh
 ```
 
+### Releases:
 - Скачайте последнюю версию [↓ WEBSERVER.](http://files.matveynator.ru/webserver/latest/)
-
 - Download latest version of [↓ WEBSERVER.](http://files.matveynator.ru/webserver/latest/) 
